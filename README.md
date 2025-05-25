@@ -15,7 +15,10 @@
 
 ## 📫 How to reach me
 - Email: oussamaghallal@gmail.com
-- LinkedIn: [linkedin.com/in/oussamaghallal](https://www.linkedin.com/in/oussamaghallal)
+- LinkedIn:
+www.linkedin.com/in/
+oussama-el-ghallal-64846a339
+
 - GitHub: [github.com/oussamaghallal](https://github.com/oussamaghallal)
 
 ## 😄 Pronouns
